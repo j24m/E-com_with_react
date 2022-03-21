@@ -1,8 +1,8 @@
 import './Header.css';
-import {RadixIconsKeyboard} from '../Assets/icons';
-import {PhShoppingCartSimpleBold} from '../Assets/icons';
-import {PhHeartBold} from '../Assets/icons';
-import pingu from '../Assets/Images/pingu.jpg'
+import {RadixIconsKeyboard} from '../../Assets/icons';
+import {PhShoppingCartSimpleBold} from '../../Assets/icons';
+import {PhHeartBold} from '../../Assets/icons';
+import pingu from '../../Assets/Images/pingu.jpg'
 import React from 'react';
 const Header = props => {
     return(<div>

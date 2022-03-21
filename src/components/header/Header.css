@@ -10,11 +10,11 @@
 
     0%,
     100% {
-        background-image: url(../Assets/Images/homepage-bg-img1.webp )
+        background-image: url(../../Assets/Images/homepage-bg-img1.webp )
     }
 
     50% {
-        background-image: url(../Assets/Images/homepage-bg-img2.webp )
+        background-image: url(../../Assets/Images/homepage-bg-img2.webp )
     }
 }
 
